@@ -30,6 +30,6 @@ if __name__ == "__main__":
     # 转为法语
     # translator.translate_pdf(pdf_file_path, file_format, '法语')
 
-    # 转为韩语
+    # 转为日语
     translator.translate_pdf(pdf_file_path, file_format, '日语')
 
