@@ -12,7 +12,7 @@ ai translator: https://github.com/LIJA26/openai-quickstart/tree/main/openai-tran
 
 langcharin chains: https://github.com/LIJA26/openai-quickstart/blob/main/langchain/jupyter/chains/router_chain.ipynb
 
-# Day2 Homework
+# Day3 Homework
 
 ChatBot： https://github.com/LIJA26/openai-quickstart/tree/main/langchain/car_sales_chatbot
 
