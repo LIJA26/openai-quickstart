@@ -6,14 +6,14 @@ https://chatgpt.com/share/3237ed65-5b1a-4f65-930c-4f568c626940
 
 # Day2 Homework
 
-GPT-4V:
+GPT-4V: https://github.com/LIJA26/openai-quickstart/blob/main/openai_api/gpt-4v.ipynb
 
-ai translator: 
+ai translator: https://github.com/LIJA26/openai-quickstart/tree/main/openai-translator/ai_translator
 
-langcharin chains: 
+langcharin chains: https://github.com/LIJA26/openai-quickstart/blob/main/langchain/jupyter/chains/router_chain.ipynb
 
 # Day2 Homework
 
-ChatBot： 
+ChatBot： https://github.com/LIJA26/openai-quickstart/tree/main/langchain/car_sales_chatbot
 
 
